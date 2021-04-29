@@ -1,0 +1,27 @@
+{
+  "name": "conference-managementSystem",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "ant-design-vue": "^2.1.0",
+    "axios": "^0.21.1",
+    "dayjs": "^1.10.4",
+    "js-cookie": "^2.2.1",
+    "js-md5": "^0.7.3",
+    "qs": "^6.10.1",
+    "vue": "^3.0.5",
+    "vue-request": "^1.1.0",
+    "vue-router": "^4.0.5",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.1.5",
+    "@vue/compiler-sfc": "^3.0.5",
+    "sass": "^1.32.8",
+    "vite": "^2.1.0"
+  }
+}
